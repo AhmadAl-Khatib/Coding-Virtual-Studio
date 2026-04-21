@@ -612,7 +612,7 @@ function SetupMode({ scenes, setScenes, settings, setSettings, startProduction, 
             title="Get Python Programming for Beginners on Amazon"
           >
             <img 
-              src="en-book-cover.jpg" 
+              src="/Coding-Virtual-Studio/Python-Programming-for-Beginners-cover.jpg" 
               alt="Python Programming for Beginners Book Cover" 
               className="w-16 h-auto rounded-md shadow-lg border border-slate-700/50" 
             />
