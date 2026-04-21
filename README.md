@@ -15,7 +15,7 @@ Stop worrying about live-coding errors. Record high-quality, cinematic tutorials
 ## ⚡ Quick Start & Live App
 The fastest way to start generating code videos is via the deployed application:
 
-### 👉 [**Launch Coding Virtual Studio (Live Demo)**](https://ahmadal-khatib.github.io/Coding-Virtual-Studio/)
+### 👉 [**Launch Coding Virtual Studio (Live Webapp)**](https://ahmadal-khatib.github.io/Coding-Virtual-Studio/)
 
 ---
 
