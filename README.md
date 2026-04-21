@@ -16,7 +16,7 @@ The first high-fidelity presentation IDE designed specifically for tutorial **ma
 
 Most coding tutorials fail because the **maker** gets bogged down in the *mechanics* of typing. 
 
-* **The Live Coding Curse**: Manual typing leads to typos, mid-video "bug fixes," and overwhelming the audience with minor syntax corrections that distract from the core lesson.
+* **The Live Coding difficulty**: Manual typing leads to typos, mid-video "bug fixes," and overwhelming the audience with minor syntax corrections that distract from the core lesson.
 * **The Solution**: **Coding Virtual Studio** is a "Scripted Presentation Engine." It allows you to pre-load your logic into sequence-based steps. You navigate through your lesson with a single keypress, ensuring your code is always perfect, allowing you to focus 100% on the **explanation**.
 
 ---
@@ -27,21 +27,21 @@ This studio was engineered by analyzing the common pain points of technical educ
 
 ### 1. 🎞️ Scripted Step-by-Step Navigation
 Functioning as a digital storyboard, the studio allows you to pre-configure milestones (e.g., *Variables*, *Control Logic*, *Final Output*). 
-* **Zero Typos**: Navigate forward/backward using `ArrowUp` and `ArrowDown`.
+* **Zero Typos**
 * **Flawless Flow**: Your audience sees the code evolve perfectly as you speak.
 
 ### 2. 💡 Automated "Key Takeaway" Overlays
 Eliminate the need for time-consuming post-production editing.
-* **Instant Context**: Trigger high-contrast overlays via the `Lightbulb` icon to highlight the "Big Idea."
-* **Dynamic Visuals**: Uses custom `hexToRgba` transparency to ensure overlays look premium and cinematic over your code.
+* **Instant Context**: Trigger high-contrast scripted overlays to highlight the "Big Idea."
 
 ### 3. 🎨 High-Visibility Theme Engine
-Switch between professional aesthetics optimized for video compression (YouTube, TikTok, Reels).
-* **Themes Included**: Darcula (Pro-dark), GitHub (High-clarity light), Monokai, and more.
-* **Visual Accessibility**: Specifically tuned font weights and syntax highlighting for small-screen mobile viewers.
+Switch between professional aesthetics optimized for (YouTube, TikTok, Reels).
+* **Themes**: Dark and light mode.
+* **Font Size**: Adjustable font size.
+* **Ratio**: Support both vertical and horizontal video making.
 
-### 4. 📺 Distraction-Free "Studio Mode"
-Using the `MonitorPlay` and `Maximize` features, you can strip away all browser UI, sidebars, and buttons. You are left with a clean, cinematic canvas of pure code and execution output—ideal for screen recording.
+### 4. 📺 Timestamps export
+Ready to copy timestamps.
 
 ### 5. 🛠️ Brand-Ready Customization
 * **Custom Logos**: Inject your brand identity directly into the overlay system via the `noteLogo` feature.
@@ -54,7 +54,8 @@ Using the `MonitorPlay` and `Maximize` features, you can strip away all browser 
 1.  **Prepare**: Add your code logic into the sequential `steps` array.
 2.  **Annotate**: Assign a "Key Takeaway" and `noteColor` to each milestone.
 3.  **Style**: Select a theme that fits your video's aesthetic.
-4.  **Record**: Hit record, enter **Studio Mode**, and explain your code without ever hitting a backspace key.
+4.  **Ratio**: 16:9 or 9:16.
+5.  **Record**: Hit record, enter **Studio Mode**, and explain your code without ever hitting a backspace key.
 
 ---
 
@@ -66,7 +67,7 @@ Using the `MonitorPlay` and `Maximize` features, you can strip away all browser 
 ---
 
 ## 🤝 Context & Authorship
-This project is a companion tool for the **"Python Programming for Beginners"** series by **Ahmad Al Khatib**. While the book provides the knowledge, this Studio provides the platform for **makers** to share that knowledge effectively.
+This project is brought to you by my book: **["Python Programming for Beginners": A Hands-On Crash Course with Step-by-Step Projects to Learn Python Fast and Build Real-World Skills](https://www.amazon.com/dp/B0GJGG8K3P)** by **Ahmad Al Khatib**. 
 
 - **Author**: Ahmad Al Khatib
 - **Official Website**: [ahmad-khatib.com](https://ahmad-khatib.com/en/)
