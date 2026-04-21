@@ -1,4 +1,4 @@
-# 🎬 Coding Virtual Studio: The Ultimate Code Animation & Tutorial Generator
+# 🎬 Coding Virtual Studio: The Easy Code Animator & Tutorial Generator
 
 [![GitHub Stars](https://img.shields.io/github/stars/AhmadAl-Khatib/Coding-Virtual-Studio?style=for-the-badge)](https://github.com/AhmadAl-Khatib/Coding-Virtual-Studio/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/AhmadAl-Khatib/Coding-Virtual-Studio?style=for-the-badge)](https://github.com/AhmadAl-Khatib/Coding-Virtual-Studio/network/members)
@@ -13,26 +13,41 @@ Stop worrying about live-coding errors. Record high-quality, cinematic tutorials
 ---
 
 ## ⚡ Quick Start & Live App
-The fastest way to start generating code videos is via the deployed application:
+The fast way to start generating code videos is via the deployed application:
 
 ### 👉 [**Launch Coding Virtual Studio (Live Webapp)**](https://ahmadal-khatib.github.io/Coding-Virtual-Studio/)
 
 ---
 
-## ⭐ Support for Makers
-If this tool improves your workflow as a **maker**, please consider supporting the project:
-* **Star this repository** to boost its visibility so other makers can find it.
-* **Fork the repo** to customize the UI or integrate new features into your own video production pipeline.
+## ✅ How To Use: The Maker's Workflow
+
+Transforming your code into a cinematic tutorial is a simple 4-step process designed to maximize your efficiency:
+
+1. **Script Your Scenes:** Input your code snippets into the playlist. Structure your tutorial logically—from "Hello World" to complex functions. For each scene, you can add an **optional callout note** (Teacher Note) that automatically animates into view after the code execution to highlight key takeaways.
+
+2. **Customize the Visuals:** Tailor the IDE to your personal brand. 
+   * Choose between **Dark (Darcula)** or **Light** themes.
+   * Set your **Accent and Background colors**.
+   * Upload a **Custom Logo** and a professional **IDE Watermark**.
+   * Select your **Aspect Ratio**: 16:9 for YouTube or 9:16 for high-impact Shorts, Reels, and TikToks.
+
+3. **Prepare Your Stage:** Open your preferred screen recording software (OBS, Screenflow, Loom, etc.).
+
+4. **Action!** Launch the studio and **click anywhere on the screen** to begin. The app takes over from there—handling the automated typing, syntax highlighting, code execution, result animations, and callout popups. Focus 100% on your narration and vocal delivery while the app performs the technical heavy lifting.
 
 ---
 
 ## 🚀 Why Use a Code Animation Studio?
-Recording professional coding tutorials is a challenge. A single syntax error can break your creative flow. This tool is designed to help **makers** focus on storytelling rather than debugging:
+Recording professional coding tutorials is a high-stakes balancing act. A single syntax error or a forgotten symbol can instantly shatter your creative flow. 
 
-* **Zero-Typo Tutorials:** Pre-write your code and let the app animate the typing perfectly every time.
-* **Cinematic Presentation:** A clean, distraction-free IDE interface optimized specifically for screen recording.
-* **Maker Branding:** Add custom watermarks, logos, and accent colors to maintain brand consistency.
-* **Multi-Platform Ready:** Instantly switch between **Landscape (16:9)** for YouTube and **Vertical (9:16)** for Shorts, Reels, and TikTok.
+This tool is engineered to help **makers** reclaim their focus by shifting the burden from typing to storytelling. By using a "scripted execution" workflow, you eliminate:
+
+* **Live-Coding Anxiety:** No more "fat-finger" typos or embarrassing syntax errors mid-record.
+* **The Debugging Trap:** Stop wasting time fixing bugs in real-time that have nothing to do with your lesson.
+* **Multitasking Overwhelm:** Don't struggle to balance script reading, screen management, and typing simultaneously.
+* **Concentration Loss:** Stay "in the zone" with your narration while the app handles the mechanical precision of the code.
+
+**Focus on the "Why" and the "How"—let Coding Virtual Studio handle the "Keystrokes."**
 
 ---
 
@@ -43,9 +58,16 @@ Recording professional coding tutorials is a challenge. A single syntax error ca
 | **Scene Playlist** | Script your entire video production in one go. |
 | **Real-Time Python** | Powered by **Pyodide** (WebAssembly) for authentic in-browser execution. |
 | **Automated Typing** | Variable speed control to sync perfectly with your narration. |
-| **Teacher Note Popups** | Animated callouts to explain complex logic visually. |
-| **Branding Suite** | Custom logos and IDE watermarks to protect your content. |
+| **Teacher Note Popups** | Animated customizable callouts to explain complex logic visually. |
+| **Branding Suite** | Custom logos and IDE watermarks to reflect your brand. |
 | **Export Timestamps** | Generate chapter markers for YouTube and post-production sync. |
+
+---
+
+## ⭐ Support for Maker
+If this tool improves your workflow as a **maker**, please consider supporting the project:
+* **Star this repository** to boost its visibility so other makers can find it.
+* **Fork the repo** to customize the UI or integrate new features into your custom video production pipeline.
 
 ---
 
